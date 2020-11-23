@@ -48,7 +48,7 @@ public:
 };
 
 //3.·´×ªÁ´±í
-class Solution2 {
+class Solution3 {
 public:
 	vector<int> printListFromTailToHead(ListNode* head) {
 		ListNode* pre = nullptr;
